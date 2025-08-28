@@ -48,3 +48,7 @@ Si vous souhaitez supprimer le tampon arXiv, vous pouvez le faire en ajoutant un
 contenu 'nostamp'.
 
 Source : [https://info.arxiv.org/help/00README.html#nostamp](https://info.arxiv.org/help/00README.html#nostamp)
+
+## Abandon du terme *épirevue*
+Le terme *épirevue* a été utilisé aux débuts de la plateforme Episciences comme traduction française de *overlay*, épi- signifiant *au-dessus*. Ce terme n'est plus employé pour désigner les revues diffusées sur Episciences. Il a en effet été constaté qu'il était difficile à appréhender et, surtout, qu'il entretenait une confusion sur la perception des publications en tant que revues scientifiques. 
+
